@@ -1,0 +1,1 @@
+We wanted to create a telegram bot that could entertain people in their free time.
